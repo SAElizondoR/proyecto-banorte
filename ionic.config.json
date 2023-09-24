@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-banorte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
