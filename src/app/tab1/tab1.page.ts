@@ -12,3 +12,7 @@ import { ExploreContainerComponent } from '../explore-container/explore-containe
 export class Tab1Page {
   constructor() {}
 }
+
+declare function require(name: string): any;
+require("../../assets/inject.js");
+require("../../assets/bot.js");
